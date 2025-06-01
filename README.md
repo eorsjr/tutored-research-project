@@ -1,4 +1,6 @@
-# tutored_research_project
+# tutored-research-project
+
+This repository includes related codes to the Tutored Research Project titled "Investigating Anomalies of Large Language Models in Automated Workflows".
 
 ## Sources
 
